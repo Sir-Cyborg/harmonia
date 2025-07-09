@@ -1,0 +1,24 @@
+Progetto Harmony
+
+L'obiettivo è capire due insiemi armonizzano.
+
+Un computer non può lavorare direttamente con parole... Un embedding è un modo per rappresentare un testo (una parola, una frase, un paragrafo) come un vettore numerico in uno spazio di dimensione elevata (es: 300D, 512D, 768D).
+
+Il modello che trasforma il testo in vettori in questo progetto è BERT: uun modello di linguaggio basato su Transformer (Bidirectional Encoder Representations from Transformers), pre-addestrato su grandi quantità di testo. 
+[https://arxiv.org/pdf/1810.04805]
+
+I dati in input sono controlli di sicurezza (Titolo, Descrizione).
+Quando si trasformano questi dati in vettori, questi sono di dimezioni enormi, l'obiettivo è rappresentare questi dati, ma i limiti noi comuni mortali non permettono di visualizzare oltre le 3 dimensioni (curse of dimentionality) [https://en.wikipedia.org/wiki/Curse_of_dimensionality]
+
+Applichiamo quindi una roba chiamata PCA (Principal Component Analysis). L'idea è trovare gli assi principali lungo cui i dati "variano" di più. 
+[https://builtin.com/data-science/step-step-explanation-principal-component-analysis]
+
+-------------------------------
+Nell'immagine sono rappresentati i contorlli del file controlli.json
+![alt text](image.png)
+
+In un secondo esperimento, consideriamo un insieme piu piccolo, anche in termini di descrizioni di ogni controllo.
+
+Notiamo che l'ogetto "Uno" e "Sei" hanno la stessa descizione e di conseguenza si sovrappongono nella rappresentazione.
+
+Nel terzo esperimento abbiamo due dati in input, rappresentati in blu e arancione.

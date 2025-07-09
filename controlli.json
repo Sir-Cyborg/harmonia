@@ -1,0 +1,82 @@
+[
+  {
+    "titolo": "Controllo accessi amministrativi",
+    "descrizione": "Tutti gli accessi con privilegi elevati devono essere tracciati e limitati tramite autenticazione a più fattori."
+  },
+  {
+    "titolo": "Gestione delle password",
+    "descrizione": "Le password devono essere complesse, cambiate ogni 90 giorni e archiviate in formato cifrato."
+  },
+  {
+    "titolo": "Cifratura dei dati a riposo",
+    "descrizione": "I dati sensibili salvati su disco devono essere cifrati utilizzando algoritmi approvati come AES-256."
+  },
+  {
+    "titolo": "Firewall di rete perimetrale",
+    "descrizione": "Deve essere presente un firewall configurato per bloccare tutto il traffico non autorizzato verso l'esterno."
+  },
+  {
+    "titolo": "Segmentazione della rete",
+    "descrizione": "Le reti interne devono essere segmentate per isolare i sistemi critici da quelli meno sensibili."
+  },
+  {
+    "titolo": "Backup regolare dei dati",
+    "descrizione": "I dati critici devono essere sottoposti a backup almeno giornaliero, e i backup devono essere testati periodicamente."
+  },
+  {
+    "titolo": "Controllo delle vulnerabilità",
+    "descrizione": "Tutti i sistemi devono essere soggetti a scansioni di vulnerabilità mensili e patch applicate entro 30 giorni."
+  },
+  {
+    "titolo": "Gestione degli account inattivi",
+    "descrizione": "Gli account non utilizzati da più di 30 giorni devono essere disabilitati automaticamente."
+  },
+  {
+    "titolo": "Monitoraggio e logging",
+    "descrizione": "Tutte le attività degli utenti e degli amministratori devono essere registrate e conservate per almeno 6 mesi."
+  },
+  {
+    "titolo": "Protezione da malware",
+    "descrizione": "Devono essere installati sistemi antivirus/EDR su tutti i dispositivi con aggiornamenti automatici attivi."
+  },
+  {
+    "titolo": "Autenticazione multifattoriale",
+    "descrizione": "L’accesso ai sistemi critici deve essere protetto da autenticazione a due fattori (2FA)."
+  },
+  {
+    "titolo": "Controllo degli accessi fisici",
+    "descrizione": "L'accesso fisico alle sale server deve essere controllato tramite badge e videosorveglianza."
+  },
+  {
+    "titolo": "Gestione del ciclo di vita dei dispositivi",
+    "descrizione": "I dispositivi dismessi devono essere bonificati con cancellazione sicura dei dati prima della dismissione."
+  },
+  {
+    "titolo": "Formazione alla sicurezza",
+    "descrizione": "Tutti i dipendenti devono partecipare a corsi annuali di formazione sulla consapevolezza della sicurezza."
+  },
+  {
+    "titolo": "Policy di sicurezza documentata",
+    "descrizione": "Deve essere disponibile una politica di sicurezza formale approvata dalla direzione e comunicata al personale."
+  },
+  {
+    "titolo": "Controllo delle applicazioni",
+    "descrizione": "È vietata l’installazione di software non autorizzato sui dispositivi aziendali."
+  },
+  {
+    "titolo": "Gestione degli incidenti",
+    "descrizione": "Deve esistere un piano di risposta agli incidenti, con esercitazioni condotte almeno una volta all’anno."
+  },
+  {
+    "titolo": "Protezione dei dati in transito",
+    "descrizione": "I dati devono essere cifrati durante la trasmissione tramite protocolli sicuri come TLS 1.2 o superiori."
+  },
+  {
+    "titolo": "Accesso basato sul principio del minimo privilegio",
+    "descrizione": "Gli utenti devono avere solo i privilegi strettamente necessari per svolgere le proprie mansioni."
+  },
+  {
+    "titolo": "Test di penetrazione annuale",
+    "descrizione": "Ogni anno deve essere condotto un penetration test da parte di un fornitore esterno qualificato."
+  }
+]
