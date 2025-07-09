@@ -25,3 +25,5 @@ Nel terzo esperimento abbiamo due dati in input, rappresentati in blu e arancion
 Cosa fare dopo?
 
 Abbiamo visto come due sistemi sono disposti nella feature space, ora per ogni punto possiamo calcolare la distanza tra gli altri punti, questi rappresenteranno quando i due dati sono correlati (potremmo anche clusterizzare) 
+
+Oppure si interviene sui testi... invece degli obiettivi, facciamo basare il modello su keyword
