@@ -1,6 +1,6 @@
 Progetto Harmony
 
-L'obiettivo è capire due insiemi armonizzano.
+L'obiettivo è capire due insiemi che armonizzano.
 
 Un computer non può lavorare direttamente con parole... Un embedding è un modo per rappresentare un testo (una parola, una frase, un paragrafo) come un vettore numerico in uno spazio di dimensione elevata (es: 300D, 512D, 768D).
 
@@ -21,3 +21,7 @@ In un secondo esperimento, consideriamo un insieme piu piccolo, anche in termini
 Notiamo che l'ogetto "Uno" e "Sei" hanno la stessa descizione e di conseguenza si sovrappongono nella rappresentazione.
 
 Nel terzo esperimento abbiamo due dati in input, rappresentati in blu e arancione.
+-------------------------------
+Cosa fare dopo?
+
+Abbiamo visto come due sistemi sono disposti nella feature space, ora per ogni punto possiamo calcolare la distanza tra gli altri punti, questi rappresenteranno quando i due dati sono correlati (potremmo anche clusterizzare) 
