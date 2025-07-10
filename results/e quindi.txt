@@ -1,0 +1,16 @@
+esperimento basato su dataset F1 F2.
+
+F1.png rappresenta il dataset F1 nello spazio semantico.
+una massa si concentra nella zona PC1[-2,0].
+
+alcuni dati si sovrappongono e.g. PC1[6]
+
+F1+F2. rappresenta i dataset F1 e F2 nello spazio semantico.
+anche F2 presenta una massa concentrata in PC[-2,4].
+
+F1+F2_3D. rappresenta i dataset F1 e F2 nello spazio semantico in 3D.
+si nota che F2 si distingue dalla massa F1 (relativamente), ciò conferma che F1 e F2 sono due insiemi diversi.
+
+distanza coseno ≈ 0 → i vettori sono molto simili (quasi paralleli).
+
+distanza coseno ≈ 1 → i vettori sono molto diversi (ortogonali, cioè nessuna similarità)
