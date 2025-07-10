@@ -7,12 +7,12 @@ sheets = ["F1", "F2"]
 
 for sheet in sheets:
     df = pd.read_excel(excel_file, sheet_name=sheet)
-    # colonna A (index 0) e B (index 1)
+    # colonna A (index 0) e C (index 2)
     data = []
     for _, row in df.iterrows():
         entry = {
             "ID": row.iloc[0],
-            "TEXT": row.iloc[1]
+            "TEXT": row.iloc[2]
         }
         data.append(entry)
     # Salva in JSON
