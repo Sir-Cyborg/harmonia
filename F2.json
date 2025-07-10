@@ -1,0 +1,174 @@
+[
+  {
+    "ID": "F2_1",
+    "TEXT": "CC_01_01 - Il controllo è volto a garantire l'esistenza di autorizzazioni e limiti necessari alla regolare conduzione della operatività ordinaria da parte o per conto della clientela (e.g. autorizzazione all'accesso all'home banking, codici di utilizzo delle carte di pagamento, limiti importo per l'utilizzo delle carte, double check oltre importi prefissati, procedure di call-back, etc.)"
+  },
+  {
+    "ID": "F2_2",
+    "TEXT": "CC_01_02 - Il controllo è volto a garantire l'esistenza di autorizzazioni e limiti sull'operatività interna Banca ordinaria (e.g., limiti sui pagamenti verso i fornitori) e straordinaria (e.g., poteri deliberativi)"
+  },
+  {
+    "ID": "F2_3",
+    "TEXT": "CC_01_03 - Il controllo ricomprende tutte le attività di verifica e manutenzione/aggiornamento dei diritti di accesso ai locali ed  ai sistemi interni/esterni e della relavita gestione delle utenze e dei profili abilitativi (e.g. segregation of duties, blocchi a sistema in base al \"need to know\" e al \"least privilege\", diritti di accesso privilegiato, step autorizzativi nell'ambito del change management step autorizzativi per passaggio in produzione di nuovi sistemi/applicazioni)"
+  },
+  {
+    "ID": "F2_4",
+    "TEXT": "CC_01_04 - Il controllo è volto a garantire l'esistenza di autorizzazioni e limiti sull'operatività che non sono ricompresi nelle categorie precedenti"
+  },
+  {
+    "ID": "F2_5",
+    "TEXT": "CC_02_01 - Il controllo ricomprede l'insieme di attività ispettive sulle terze parti (e.g., attività di audit, etc.)"
+  },
+  {
+    "ID": "F2_6",
+    "TEXT": "CC_03_01 - Il controllo ricomprende tutte le attività di monitoraggio sull'operatività e sulla gestione delle risorse umane, quali:"
+  },
+  {
+    "ID": "F2_7",
+    "TEXT": "- il livello di soddisfazione del personale, mediante KRI andamentali (e.g., turnover personale, performance, andamento welfare, numero reclami e contenziosi giuslavoristici gestiti, etc.);"
+  },
+  {
+    "ID": "F2_8",
+    "TEXT": "- eventuale operatività e condotte improprie, illecite, non autorizzate (e.g., corruzione, abuso d'ufficio, appropriazioni indebite, furti, etc.);"
+  },
+  {
+    "ID": "F2_9",
+    "TEXT": "- l'operatività da parte del personale;"
+  },
+  {
+    "ID": "F2_10",
+    "TEXT": "- l'erogazione del servizio da parte del personale"
+  },
+  {
+    "ID": "F2_11",
+    "TEXT": "- rispetto del minimum mandatory leave da parte del personale"
+  },
+  {
+    "ID": "F2_12",
+    "TEXT": "CC_03_03 - Il controllo ricomprende tutte le attività di monitoraggio sulla posizione e sui rapporti della clientela e sulla operatività da parte o per conto della clientela (e.g., variazione risk rating, review della posizione debitoria, controlli su first party fraud e third party fraud, transaction monitoring, AML, recalmi e contenziosi, etc.)"
+  },
+  {
+    "ID": "F2_13",
+    "TEXT": "CC_03_04 - Il controllo ricomprende tutte le attività di monitoraggio sui sistemi IT (e.g., capacity, performance, reti, account monitoring, access monitoring, etc.) e sui dati"
+  },
+  {
+    "ID": "F2_14",
+    "TEXT": "CC_03_05 - Il controllo include tutte le attività di monitoraggio non ricomprese nelle categorie precedenti"
+  },
+  {
+    "ID": "F2_15",
+    "TEXT": "CC_04_02 - Il controllo consiste nella presenza di soluzioni funzionali e/o strumenti tecnici/teconologici nell'ambito della sicurezza informatica e dei sistemi di pagamento, nonché la loro gestione, revisione e testing nel tempo (e.g., antivirus, firewall, accesso limitato al web, VPN per connessione da remoto, sistemi di threat intelligence, strong authentication, chiavi crittografate, log di accessi e operazioni svolte, registro degli asset, rete segmentata, sistemi per la prevenzione della perdita di dati e cifratura del traffico di rete, user accountability, separazione logica tra dati gestiti dall'ente e da terzi, capacity planning dei Servizi IT, configuration management, separazione degli ambienti di sviluppo/testing/produzione, invio carte disaccoppiate rispetto ai codici, etc.) "
+  },
+  {
+    "ID": "F2_16",
+    "TEXT": "CC_04_05 - Il controllo consiste nella presenza di soluzioni funzionali e/o strumenti tecnici/teconologici nell'ambito delle terze parti, nonché la loro gestione, revisione e testing nel tempo (e.g., registro terze parti, etc.)"
+  },
+  {
+    "ID": "F2_17",
+    "TEXT": "CC_04_06 - Il controllo consiste nella presenza di soluzioni funzionali e/o strumenti tecnici/teconologici nell'ambito del sistema informativo, nonché la loro gestione, revisione e testing nel tempo (e.g., separazione degli ambienti di sviluppo/testing/produzione, patching management, registro degli asset IT, etc.)"
+  },
+  {
+    "ID": "F2_18",
+    "TEXT": "CC_04_07 - Il controllo consiste nella presenza di soluzioni funzionali e/o strumenti tecnici/teconologici non ricomprese nelle categorie precedenti, nonché la loro gestione, revisione e testing nel tempo"
+  },
+  {
+    "ID": "F2_19",
+    "TEXT": "CC_05_03 - Il controllo ricomprende tutte le attività di:"
+  },
+  {
+    "ID": "F2_20",
+    "TEXT": "- due diligence su terze parti (e.g., due diligence pre-contrattuale, etc.);"
+  },
+  {
+    "ID": "F2_21",
+    "TEXT": "- valutazione periodica dei rischi connessi alla terza parte;"
+  },
+  {
+    "ID": "F2_22",
+    "TEXT": "- supervisione degli aspetti contrattuali e regolamentari legati alle terze parti"
+  },
+  {
+    "ID": "F2_23",
+    "TEXT": "CC_05_04 - Il controllo ricomprende le attività di due diligence volte a verificare l'esistenza di adeguate coperture assicurative da parte delle terze parti"
+  },
+  {
+    "ID": "F2_24",
+    "TEXT": "CC_05_06 - Il controllo include tutte le attività di due diligence e risk assessment non ricomprese nelle categorie precedenti"
+  },
+  {
+    "ID": "F2_25",
+    "TEXT": "CC_06_03 - Il controllo consiste nella definizione, adesione e revisione di standard e policy in ambito terze parti e acquisti"
+  },
+  {
+    "ID": "F2_26",
+    "TEXT": "CC_06_06 - Il controllo consiste nella definizione, adesione e revisione di standard e policy in ambito Sistema Informativo, Sicurezza Informatica, Gestione e governo dei Dati, Continuità operativa e disaster recovery"
+  },
+  {
+    "ID": "F2_27",
+    "TEXT": "CC_06_14 - Il controllo consiste nella definizione, adesione e revisione di standard contrattuali relativamente alle terze parti (e.g., clausole di limitazione della responsabilità in caso di eventi di rischio operativo, di exit strategy, di uso/modalità di erogazione del servizio, cancellazione/ portabilità/titolarità/accessibilità dei dati, modalità di accesso logico e fisico, requisiti di sicurezza per i fornitori, obbligo di notifica in caso di incidenti gravi, etc.)"
+  },
+  {
+    "ID": "F2_28",
+    "TEXT": "CC_06_16 - Il controllo consiste nella definizione, adesione e revisione di standard, anche contrattuali, e policy non ricompresi nelle categorie precedenti"
+  },
+  {
+    "ID": "F2_29",
+    "TEXT": "CC_07_01 - Il controllo ricomprende tutte le attività ricorsive di verifica agite in modo automatico o manuale rispetto ad anagrafiche dipendenti, clienti, fornitori ed asset"
+  },
+  {
+    "ID": "F2_30",
+    "TEXT": "CC_07_02 - Il controllo ricomprende tutte le attività ricorsive di verifica agite in modo automatico o manuale rispetto alle attività operative svolte per gestire i rapporti, le transazioni ed i beni della clientela e gli adempimenti da parte e per conto della clientela"
+  },
+  {
+    "ID": "F2_31",
+    "TEXT": "CC_07_03 - Il controllo ricomprende tutte le attività ricorsive di verifica agite in modo automatico o manuale rispetto alle attivitò operative svolte per gestire le transazioni e gli adempimenti della Banca/Società (e.g., pagamenti stipendi e commissioni alle reti (CF), versamento contributi, pagamento fornitori, verifica fatture su prodotti collocati)"
+  },
+  {
+    "ID": "F2_32",
+    "TEXT": "CC_07_05 - Il controllo include tutte le attività ricorsive di verifica agite in modo automatico o manuale non ricomprese nelle categorie precedenti"
+  },
+  {
+    "ID": "F2_33",
+    "TEXT": "CC_08_06 - Il controllo consiste nella definizione, gestione e revisione dei processi in ambito Sistema Informativo, Sicurezza Informatica (e.g., processo di incident management, di configuration management, di change management, di gestione degli accessi, di gestione del demand, di manutenzione delle componenti informatiche, di progettazione/sviluppo di nuovi sistemi/applicazioni /infrastrutture di rete, etc.), Gestione e governo dei Dati (e.g., processo di classificazione, storage, retention/gestione dei dati, architecture management, etc.) e Continuità operativa (e.g., processo di back-up, etc.) e disaster recovery"
+  },
+  {
+    "ID": "F2_34",
+    "TEXT": "CC_08_11 - Il controllo consiste nella definizione, gestione e revisione dei processi non ricompresi nelle categorie precedenti"
+  },
+  {
+    "ID": "F2_35",
+    "TEXT": "CC_09_01 - Il controllo consiste nella definizione di ruoli e responsabilità degli organi e del management societario (formalizzati ad esempio in Organigrammi, Funzionigrammi, Sistemi delle deleghe, etc.)"
+  },
+  {
+    "ID": "F2_36",
+    "TEXT": "CC_09_02 - Il controllo consiste nella costituzione di Comitati/Consigli che abbiano ruoli consigliari e/o deliberativi"
+  },
+  {
+    "ID": "F2_37",
+    "TEXT": "CC_09_04 - Il controllo consiste nella definizione di meccanismi di governo societario non ricompresi nelle categorie precedenti"
+  },
+  {
+    "ID": "F2_38",
+    "TEXT": "CC_12_03 - Il controllo ricomprende le attività volte a garantire la presenza delle necessarie competenze interne/esterne in ambito Data Management (e.g. attività di formazione periodica obbligatoria e/o sensibilizzazione e controllo della completa erogazione, comunicazione/aggiornamento periodico, corsi di certificazione, etc.)"
+  },
+  {
+    "ID": "F2_39",
+    "TEXT": "CC_12_05 - Il controllo ricomprende le attività volte a garantire la presenza delle necessarie competenze interne/esterne in ambito sistema informativo (e.g. attività di formazione periodica obbligatoria e/o sensibilizzazione e controllo della completa erogazione, comunicazione/aggiornamento periodico, corsi di certificazione, etc.)"
+  },
+  {
+    "ID": "F2_40",
+    "TEXT": "CC_12_06 - Il controllo ricomprende le attività volte a garantire la presenza delle necessarie competenze interne/esterne in ambito AntiFrode interna ed adeguata condotta (e.g. attività di formazione periodica obbligatoria e/o sensibilizzazione e controllo della completa erogazione, comunicazione/aggiornamento periodico, corsi di certificazione, etc.)"
+  },
+  {
+    "ID": "F2_41",
+    "TEXT": "CC_12_07 - Il controllo ricomprende le attività volte a garantire la presenza delle necessarie competenze interne/esterne in ambito Anti Financial Crime (e.g. attività di formazione periodica obbligatoria e/o sensibilizzazione e controllo della completa erogazione, comunicazione/aggiornamento periodico, corsi di certificazione, etc.)"
+  },
+  {
+    "ID": "F2_42",
+    "TEXT": "CC_12_11 - Il controllo ricomprende le attività volte a definire e garantire l'adeguato dimensionamento del personale (e.g., Capacity Planning)"
+  },
+  {
+    "ID": "F2_43",
+    "TEXT": "CC_12_12 - Il controllo ricomprende le attività volte a garantire la presenza delle necessarie competenze interne/esterne e/o della clientela non ricomprese nelle categorie precedenti"
+  }
+]
