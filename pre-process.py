@@ -12,7 +12,7 @@ for sheet in sheets:
     for _, row in df.iterrows():
         entry = {
             "ID": row.iloc[0],
-            "TEXT": row.iloc[2]
+            "TEXT": row.iloc[1]
         }
         data.append(entry)
     # Salva in JSON

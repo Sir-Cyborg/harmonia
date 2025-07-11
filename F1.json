@@ -1,726 +1,778 @@
 [
   {
     "ID": "F1_1",
-    "TEXT": "Nomina referente piano settoriale (1), Scenario ILO (2), Scenario IPE (2), Scenario ISI (2)"
+    "TEXT": "Garantire che le Legal Entity del Gruppo nominino un Referente del Piano Settoriale."
   },
   {
     "ID": "F1_2",
-    "TEXT": "Nomina referente piano settoriale"
+    "TEXT": "Garantire che, se applicabile, le Legal Entity del Gruppo nominino una struttura delegata del Referente di Piano."
   },
   {
     "ID": "F1_3",
-    "TEXT": "Nomina referente piano settoriale"
+    "TEXT": "Garantire la nomina dei Referenti Manageriali e operativi"
   },
   {
     "ID": "F1_4",
-    "TEXT": "Policy BCM, ruoli e responsabilità BCM"
+    "TEXT": "Garantire che sia definita, documentata ed aggiornata una policy per la gestione delle tematiche di continuità operativa e le relative procedure operative con la specifica di ruoli e responsabilità"
   },
   {
     "ID": "F1_5",
-    "TEXT": "Piano DR, Scenario ISI"
+    "TEXT": "Garantire che venga sviluppato un piano di Disaster Recovery per i sistemi informativi. La predisposizione del piano deve essere svolta coordinando tutte le funzioni rilevanti"
   },
   {
     "ID": "F1_6",
-    "TEXT": "Piano DR, Scenario ISI"
+    "TEXT": "Garantire che venga sviluppato un piano di Disaster Recovery per i sistemi informativi. La predisposizione del piano deve essere svolta coordinando tutte le funzioni rilevanti"
   },
   {
     "ID": "F1_7",
-    "TEXT": "Piano DR, Scenario ISI"
+    "TEXT": "Garantire che il piano di Disaster Recovery identifichi i servizi essenziali, le funzioni di business critiche e i relativi requisiti di continuità"
   },
   {
     "ID": "F1_8",
-    "TEXT": "Piano DR, Scenario ISI"
+    "TEXT": "Garantire che il piano di Disaster Recovery indirizzi la sopravvivenza dei servizi essenziali e delle funzioni di business critiche in caso di disservizio, compromissione o failure dei sistemi informativi"
   },
   {
     "ID": "F1_9",
-    "TEXT": "Scenario ILO"
+    "TEXT": "Garantire la completezza e la coerenza delle informazioni contenute nelle Schede Operative per lo scenario IL."
   },
   {
     "ID": "F1_10",
-    "TEXT": "Scenario IPE"
+    "TEXT": "Garantire la completezza e la coerenza delle informazioni contenute nelle Schede Operative per lo scenario IPE."
   },
   {
     "ID": "F1_11",
-    "TEXT": "Scenario ILO, Scenario IPE, Scenario ISI"
+    "TEXT": "Garantire la completezza e la coerenza delle informazioni contenute nelle Schede per la Rete Territoriale"
   },
   {
     "ID": "F1_12",
-    "TEXT": "Scenario ILO, Scenario IPE, Scenario ISI"
+    "TEXT": "Garantire la completezza e la coerenza delle informazioni contenute nelle Schede per la Rete Territoriale"
   },
   {
     "ID": "F1_13",
-    "TEXT": "Scenario Pandemia"
+    "TEXT": "Garantire la completezza e la coerenza delle informazioni contenute nel Pandemic Plan, anche in caso di eventuali personalizzazioni."
   },
   {
     "ID": "F1_14",
-    "TEXT": "Piano DR, Scenario ISI"
+    "TEXT": "Garantire il censimento e la relativa formalizzazione delle soluzioni infrastrutturali di Continuità Operativa (es. specifiche di alta affidabilità come UPS e gruppi elettrogeni)."
   },
   {
     "ID": "F1_15",
-    "TEXT": "Scenario ILO"
+    "TEXT": "Garantire il censimento dei siti di emergenza e la formalizzazione delle relative informazioni, inclusi la cartina, le istruzioni per raggiungere il sito e il numero delle postazioni disponibili."
   },
   {
     "ID": "F1_16",
-    "TEXT": "BIA"
+    "TEXT": "Garantire che le informazioni contenute all'interno della BIA vengano rese operative."
   },
   {
     "ID": "F1_17",
-    "TEXT": "Scenario ILO, Scenario IPE, Scenario ISI"
+    "TEXT": "Garantire che le soluzioni di continuità operativa siano approvate dalle funzioni competenti."
   },
   {
     "ID": "F1_18",
-    "TEXT": "Scenario ILO, Scenario IPE, Scenario ISI"
+    "TEXT": "Garantire che le soluzioni di continuità operativa siano coerenti con i vincoli di RTO definiti."
   },
   {
     "ID": "F1_19",
-    "TEXT": "Piano DR, Scenario ISI"
+    "TEXT": "Garantire che i test del piano di Disaster Recovery vengano effettuati periodicamente secondo la metodologia di test adottata dall'azienda. Tali attività di verifica devono essere svolte al fine di determinare l'efficacia del piano e la capacità organizzativa nell'esecuzione dello stesso. Tali verifiche possono essere effettuate anche mediante l'utilizzo di appositi strumenti per aumentarne il realismo. "
   },
   {
     "ID": "F1_20",
-    "TEXT": "Piano DR, Scenario ISI"
+    "TEXT": "Garantire che i test del piano di Disaster Recovery vengano effettuati coordinando tutte le funzioni coinvolte nel piano con le funzioni organizzative rilevanti"
   },
   {
     "ID": "F1_21",
-    "TEXT": "Scenario ILO, Scenario ISI"
+    "TEXT": "Garantire che i test vengano effettuati sui siti alternativi al fine di:"
+  },
+  {
+    "ID": "F1_22",
+    "TEXT": "- far familiarizzare il personale con le infrastrutture fisiche e le risorse presenti; "
+  },
+  {
+    "ID": "F1_23",
+    "TEXT": "- verificare la reale capacità operativa del sito di recovery"
   },
   {
     "ID": "F1_24",
-    "TEXT": "Piano DR, Scenario ISI"
+    "TEXT": "Garantire che la metodologia di test di Disaster Recovery preveda la simulazione del completo ripristino dei sistemi informativi presso i siti alternativi"
   },
   {
     "ID": "F1_25",
-    "TEXT": "Scenario ILO, Scenario IPE, Scenario ISI, Test BCM"
+    "TEXT": "Garantire che, al termine di ogni verifica, venga prodotto il Final Report e che lo stesso sia completo e adeguato."
   },
   {
     "ID": "F1_26",
-    "TEXT": "Scenario ILO, Scenario IPE, Scenario ISI, Test BCM"
+    "TEXT": "Garantire che, ove necessario, siano formalizzate le azioni correttive da intraprendere a valle dell'esecuzione delle verifiche."
   },
   {
     "ID": "F1_27",
-    "TEXT": "Piano DR, Scenario ISI"
+    "TEXT": "Garantire che venga predisposto un sito alternativo per i sistemi informativi che consenta il trasferimento e il ripristino dei servizi essenziali e delle funzioni di business critiche in caso i siti primari non siano disponibili a causa di disservizio, compromissione o failure tecnologico. Tale ripristino deve avvenire nel rispetto degli RTO e RPO identificati"
   },
   {
     "ID": "F1_28",
-    "TEXT": "Controllo transazioni, Controllo conti, Frode, SCA, Pagamento, Autorizzazioni"
+    "TEXT": "Garantire che gli accessi ai conti, le transazioni di pagamento e ogni azione effettuata a distanza che possa comportare un rischio di frode sui pagamenti o altri abusi sia autorizzata mediante strong authentication"
   },
   {
     "ID": "F1_29",
-    "TEXT": "Controllo conti, Frode, SCA"
+    "TEXT": "Garantire che le modifiche ai riferimenti del cliente (p.e. contatti, numeri di telefono) siano notificate ed approvate dallo stesso mediante strong authentication"
   },
   {
     "ID": "F1_30",
-    "TEXT": "Controllo transazioni, Controllo conti, Frode, SCA, Pagamento"
+    "TEXT": "Garantire che non esistano deroghe all'applicazione di meccanismi di autenticazione forte, ad esclusione dei casi di pagamenti in uscita destinati a beneficiari di fiducia inclusi nelle “white list”, operazioni tra due conti di uno stesso cliente presso lo stesso prestatore di servizi di pagamento, operazioni dedicate rese disponibili unicamente a pagatori che non sono consumatori, trasferimenti all’interno dello stesso prestatore di servizi di pagamento, pagamenti di basso valore, categorie di operazioni a basso rischio pre-identificate."
   },
   {
     "ID": "F1_31",
-    "TEXT": "Accesso al sistema, Controllo privilegi, Accesso al sistema, Gestione account"
+    "TEXT": "Garantire che siano specificati per ciascun account i sistemi cui può accedere, l'appartenenza a ruoli o gruppi e i privilegi di accesso"
   },
   {
     "ID": "F1_32",
-    "TEXT": "Gestione account, Need to know"
+    "TEXT": "Garantire che gli account manager siano notificati almeno nei seguenti casi: account non più necessari, utenti trasferiti o licenziati, mutate necessità di utilizzo del sistema informativo, cambiamenti nel need-to-know."
   },
   {
     "ID": "F1_33",
-    "TEXT": "Gestione account, Need to know, Need to use, Segregation of duties"
+    "TEXT": "Garantire che vengano effettuate attività di certificazione periodica (su base almeno annuale) per verificare il rispetto dei requisiti di gestione degli account"
   },
   {
     "ID": "F1_34",
-    "TEXT": "Logging, Gestione account"
+    "TEXT": "Garantire che vengano tracciate le attività di creazione, modifica, abilitazione, disabilitazione e rimozione degli account, notificandone il personale competente"
   },
   {
     "ID": "F1_35",
-    "TEXT": "Controllo privilegi, Accesso al sistema, Gestione account, Segregation of duties, Autorizzazioni"
+    "TEXT": "Garantire che le autorizzazioni all'accesso implementino il principio della segregation of duties"
   },
   {
     "ID": "F1_36",
-    "TEXT": "Logging, Monitoraggio, Gestione account"
+    "TEXT": "Garantire il monitoraggio sull'esistenza di account doppi e la presenza di account inattivi da più di 6 mesi e non ancora disattivati."
   },
   {
     "ID": "F1_37",
-    "TEXT": "Logging"
+    "TEXT": "Garantire che il sistema informativo tracci tutti gli eventi prescritti dalla normativa aziendale"
   },
   {
     "ID": "F1_38",
-    "TEXT": "Logging"
+    "TEXT": "Garantire che sia effettuata una revisione  periodica degli eventi sottoposti a tracciamento"
   },
   {
     "ID": "F1_39",
-    "TEXT": "Logging"
+    "TEXT": "Garantire che, per ciascun evento, siano tracciate come minimo le informazioni previste dalla normativa aziendale (es. la tipologia di evento occorso, la data e l'ora di accadimento, il sistema su cui si è verificato l'evento, il sistema di origine, l'esito, le informazioni per identificare il soggetto associato all'evento, etc.)"
   },
   {
     "ID": "F1_40",
-    "TEXT": "Logging, Backup"
+    "TEXT": "Garantire la replica dei log su sistemi informativi o su componenti differenti da quelle in cui sono generati"
   },
   {
     "ID": "F1_41",
-    "TEXT": "Controllo accessi, Logging"
+    "TEXT": "Garantire che sia consentito l'accesso alle funzionalità di gestione dei log ai soli utenti privilegiati"
   },
   {
     "ID": "F1_42",
-    "TEXT": "Gestione account"
+    "TEXT": "Garantire che gli identificativi vengano disabilitati dopo un prolungato periodo di inattività"
   },
   {
     "ID": "F1_43",
-    "TEXT": "Policy BCM, ruoli e responsabilità BCM, Scenario ILO, Scenario IPE, Scenario ISI, Scenario Pandemia"
+    "TEXT": "Garantire che le Legal Entity del Gruppo recepiscano le Linee Guida di Continuità Operativa di Gruppo."
   },
   {
     "ID": "F1_44",
-    "TEXT": "Controllo accessi, Gestione account, Accesso al sistema, Identificazione utenti"
+    "TEXT": "Garantire che gli utenti esterni (o i processi che agiscono in loro vece) siano identificati e autenticati in modo univoco"
   },
   {
     "ID": "F1_45",
-    "TEXT": "Sicurezza dei sistemi, Audit"
+    "TEXT": "Garantire che l'approccio dell'azienda alla gestione della sicurezza delle informazioni sia periodicamente revisionato da un'entità indipendente"
   },
   {
     "ID": "F1_46",
-    "TEXT": "Policy BCM, ruoli e responsabilità BCM, Scenario ILO, Scenario IPE, Scenario ISI, Scenario Pandemia"
+    "TEXT": "Garantire che, in caso di personalizzazione delle Linee Guida di Continuità Operativa di Gruppo da parte delle Legal Entity, i contenuti siano conformi a quanto previsto a livello di Gruppo."
   },
   {
     "ID": "F1_47",
-    "TEXT": "Network, Gestione traffico"
+    "TEXT": "Garantire che le eccezioni alle politiche di controllo del traffico vengano riviste periodicamente, rimuovendo quelle non più necessarie."
+  },
+  {
+    "ID": "F1_48",
+    "TEXT": "new 2024"
+  },
+  {
+    "ID": "F1_49",
+    "TEXT": "new 2024"
   },
   {
     "ID": "F1_50",
-    "TEXT": "Gestione account, Logging, Monitoraggio"
+    "TEXT": "Garantire che gli account siano monitorati per identificare attività anomale"
   },
   {
     "ID": "F1_51",
-    "TEXT": "Gestione account, Controllo privilegi, Accesso al sistema"
+    "TEXT": "Garantire che siano tempestivamente disabilitati gli account che espongono l'azienda a rischi significativi"
   },
   {
     "ID": "F1_52",
-    "TEXT": "Logging"
+    "TEXT": "Garantire che, per ciascun evento, siano tracciate come minimo le informazioni previste dalla normativa aziendale (es. la tipologia di evento occorso, la data e l'ora di accadimento, il sistema su cui si è verificato l'evento, il sistema di origine, l'esito, le informazioni per identificare il soggetto associato all'evento, etc.)"
   },
   {
     "ID": "F1_53",
-    "TEXT": "Gestione incidenti"
+    "TEXT": "Garantire l'adozione di uno schema di classificazione degli incidenti di sicurezza"
   },
   {
     "ID": "F1_54",
-    "TEXT": "Gestione account, Logging, Monitoraggio"
+    "TEXT": "Garantire che l'utilizzo degli account sia monitorato"
   },
   {
     "ID": "F1_55",
-    "TEXT": "Controllo transazioni, Frode, Pagamento"
+    "TEXT": "Garantire che sia implementato un processo per il monitoraggio delle Frode sulle carte di pagamento"
   },
   {
     "ID": "F1_56",
-    "TEXT": "Frode, Pagamento"
+    "TEXT": "Garantire la correlazione di dati provenienti da più fonti a supporto dell'attività di rilevazione di Frode"
   },
   {
     "ID": "F1_57",
-    "TEXT": "Frode, Pagamento"
+    "TEXT": "Garantire che sia implementato un processo per il monitoraggio delle Frode su internet banking"
   },
   {
     "ID": "F1_58",
-    "TEXT": "Frode, Pagamento, Monitoraggio"
+    "TEXT": "Garantire l'utilizzo di piattaforme ed applicativi dedicati all'identificazione di comportamenti anomali e/o transazioni sospette"
   },
   {
     "ID": "F1_59",
-    "TEXT": "Frode"
+    "TEXT": "Garantire la produzione periodica di reportistica delle Frode rilevate"
   },
   {
     "ID": "F1_60",
-    "TEXT": "Frode, Pagamento, Monitoraggio"
+    "TEXT": "Garantire l'analisi degli alert generati dalle procedure di monitoraggio delle transazioni per il rilevamento e la prevenzione dalle Frode, al fine di individuare azioni fraudolente o eventuali falsi positivi."
   },
   {
     "ID": "F1_61",
-    "TEXT": "Frode"
+    "TEXT": "Garantire che sia definita, documentata ed aggiornata una policy sulla gestione delle Frode e le relative procedure operative con la specifica di ruoli e responsabilità"
   },
   {
     "ID": "F1_62",
-    "TEXT": "Controllo accessi, Accesso al sistema"
+    "TEXT": "Garantire che sia definita, documentata ed aggiornata una policy di controllo degli accessi e le relative procedure operative"
   },
   {
     "ID": "F1_63",
-    "TEXT": "Gestione account, Controllo privilegi, Need to know, Need to use, Segregation of duties, Controllo privilegi"
+    "TEXT": "Garantire che siano definiti dei criteri per l'associazione degli account ad un ruolo o gruppo di privilegi"
   },
   {
     "ID": "F1_64",
-    "TEXT": "Policy sicurezza, Controllo accessi, Accesso al sistema, Gestione account, Autenticazione"
+    "TEXT": "Garantire che sia definita, documentata ed aggiornata una policy sulle misure di identificazione ed autenticazione utenti ed applicazioni e le relative procedure operative"
   },
   {
     "ID": "F1_65",
-    "TEXT": "Formazione, Awareness"
+    "TEXT": "Garantire che sia definito un piano annuale che comprenda iniziative formative e di sensibilizzazione per la diffusione della cultura cyber a copertura del personale della banca. "
   },
   {
     "ID": "F1_66",
-    "TEXT": "Policy sicurezza, Formazione, Awareness, Policy BCM"
+    "TEXT": "Garantire che sia definita, documentata ed aggiornata  una policy per la sensibilizzazione e la formazione su tematiche di Information Security e Business Continuity e le relative procedure operative"
   },
   {
     "ID": "F1_67",
-    "TEXT": "Flussi Sicurezza, Flussi BCM"
+    "TEXT": "Verificare se le Legal Entity a cui sono stati inviati i flussi di Sicurezza Informatica e di Continuità Operativa, li abbiano portati all'evidenza / approvazione dei propri Organi Societari in accordo con quanto previsto dalla normativa di Capogruppo."
   },
   {
     "ID": "F1_68",
-    "TEXT": "Accesso al sistema, Need to know, Need to use, Segregation of duties, Autorizzazioni"
+    "TEXT": "Garantire che l'Accesso al sistema informativi avvenga in base ad autorizzazioni all'accesso valide e in base agli utilizzi previsti"
   },
   {
     "ID": "F1_69",
-    "TEXT": "Gestione account, Need to know, Need to use, Segregation of duties, Controllo privilegi"
+    "TEXT": "Garantire che le credenziali degli account di gruppo/condivisi siano modificate nel caso in cui cambi l'elenco delle persone autorizzate ad utilizzarli"
   },
   {
     "ID": "F1_70",
-    "TEXT": "Gestione account"
+    "TEXT": "Garantire che gli account vengano creati solo a valle di approvazione della richiesta da parte del personale incaricato"
   },
   {
     "ID": "F1_71",
-    "TEXT": "Gestione account, Need to know, Need to use, Segregation of duties, Controllo privilegi"
+    "TEXT": "Garantire che gli account vengano creati, abilitati, modificati, disabilitati e rimossi al verificarsi di specifiche condizioni formalizzate"
   },
   {
     "ID": "F1_72",
-    "TEXT": "Gestione account, Monitoraggio"
+    "TEXT": "Garantire che l'utilizzo degli account sia monitorato"
   },
   {
     "ID": "F1_73",
-    "TEXT": "Gestione account, Controllo privilegi, Need to know, Need to use, Segregation of duties, Accesso al sistema"
+    "TEXT": "Garantire che siano in uso dei meccanismi automatici per supportare la gestione degli account sui sistemi informativi"
   },
   {
     "ID": "F1_74",
-    "TEXT": "Accesso al sistema, Gestione sessioni"
+    "TEXT": "Garantire che gli utenti vengano disconnessi a seguito del periodo di inattività predefinito o al verificarsi di specifiche condizioni"
   },
   {
     "ID": "F1_75",
-    "TEXT": "Gestione account, Accesso al sistema"
+    "TEXT": "Garantire che gli account condivisi / di gruppo siano disabilitati quando l'elenco degli utilizzatori risulti vuoto"
   },
   {
     "ID": "F1_76",
-    "TEXT": "Gestione account, Accesso al sistema"
+    "TEXT": "Garantire che gli account vengano bloccati dopo un numero di tentativi consecutivi di accesso falliti, così come riportato nella normativa aziendale"
   },
   {
     "ID": "F1_77",
-    "TEXT": "Gestione account, Accesso al sistema"
+    "TEXT": "Garantire che lo sblocco degli account bloccati a seguito di tentativi di accesso falliti venga effettuato come indicato nella normativa aziendale"
   },
   {
     "ID": "F1_78",
-    "TEXT": "Gestione account, Controllo privilegi, Need to know, Need to use, Segregation of duties"
+    "TEXT": "Garantire che l'assegnazione dei privilegi speciali sia monitorata"
   },
   {
     "ID": "F1_79",
-    "TEXT": "Gestione sessioni, Accesso al sistema"
+    "TEXT": "Garantire l'adozione di strumenti che consentano di disconnettere / disabilitare in modo tempestivo l'accesso remoto al sistema informativo"
   },
   {
     "ID": "F1_80",
-    "TEXT": "Gestione account"
+    "TEXT": "Garantire che gli identificativi vengano disabilitati dopo un prolungato periodo di inattività"
   },
   {
     "ID": "F1_81",
-    "TEXT": "Gestione account, Accesso al sistema"
+    "TEXT": "Garantire la correttezza, tramite i sistemi di sicurezza, delle logiche di assegnazione degli account sugli ambiti applicativi e sulle procedure non presidiate centralmente."
   },
   {
     "ID": "F1_82",
-    "TEXT": "Vulnerability assessment, Gestione vulnerabilità, Test di sicurezza, Controlli di sicurezza"
+    "TEXT": "Garantire l'esecuzione di Vulnerability Assessment sul sistema informativo per verificare la corretta implementazione delle misure di sicurezza e individuare eventuali vulnerabilità."
   },
   {
     "ID": "F1_83",
-    "TEXT": "Penetration testing, Gestione vulnerabilità, Test di sicurezza, Controlli di sicurezza"
+    "TEXT": "Garantire l'esecuzione di Penetration testing periodici sul sistema informativo per verificare la corretta implementazione delle misure di sicurezza e individuare eventuali vulnerabilità."
   },
   {
     "ID": "F1_84",
-    "TEXT": "Threat intelligence, SOC, Data breach"
+    "TEXT": "Garantire che siano periodicamente monitorati i siti internet e ogni altra fonte informativa stabilita, per rilevare eventuali evidenze della diffusione non autorizzata di informazioni aziendali"
   },
   {
     "ID": "F1_85",
-    "TEXT": "DLP, SOC, Data breach"
+    "TEXT": "Garantire l'utilizzo di meccanismi automatici per impedire la divulgazione delle informazioni aziendali"
   },
   {
     "ID": "F1_86",
-    "TEXT": "Controlli di sicurezza, Terze parti"
+    "TEXT": "Garantire che i controlli di sicurezza implementati dai fornitori di servizio esterni siano monitorati in maniera continuativa"
   },
   {
     "ID": "F1_87",
-    "TEXT": "Terze parti, Contratti"
+    "TEXT": "Garantire che la stipula dei contratti con le terze parti includa clausole in materia di sicurezza e protezione delle informazioni conformi alle norme di Legge, ai regolamenti in materia di sicurezza e alle normative aziendali, e prevedano il controllo da parte del Gruppo o degli organi di vigilanza preposti"
   },
   {
     "ID": "F1_88",
-    "TEXT": "Terze parti, Gestione configurazioni, Patch management, Change"
+    "TEXT": "Garantire che il fornitore utilizzi le configurazioni approvate per ogni reinstallazione o aggiornamento del sistema, componente o servizio del sistema informativo"
   },
   {
     "ID": "F1_89",
-    "TEXT": "Terze parti, Contratti, SCA, Accesso al sistema"
+    "TEXT": "Garantire l'aggiornamento dei contratti con i fornitori al fine di garantire l'implementazione delle ultime tecnologie riguardanti l'autenticazione forte (in riferimento agli strumenti di acquiring ed in riferimento alle carte emesse)."
   },
   {
     "ID": "F1_90",
-    "TEXT": "Terze parti, Contratti, Monitoraggio"
+    "TEXT": "Garantire il monitoraggio sulla conformità dei fornitori in accordo con quanto previsto dai contratti di servizio."
   },
   {
     "ID": "F1_91",
-    "TEXT": "Cancellazione sicura, Accesso al sistema, Controllo accessi, Data breach, Endpoint"
+    "TEXT": "Garantire che il sistema effettui la cancellazione delle informazioni aziendali presenti all'interno dei dispositivi mobili a seguito di un numero di tentativi consecutivi di accesso falliti, così come riportato nella normativa aziendale"
   },
   {
     "ID": "F1_92",
-    "TEXT": "Gestione configurazioni, Utilizzo sicuro, Gestione connessioni, Endpoint, Data breach, Hardening"
+    "TEXT": "Garantire che per i dispositivi mobili esistano restrizioni di utilizzo, requisiti di configurazione / connessione e linee guida per l'implementazione"
   },
   {
     "ID": "F1_93",
-    "TEXT": "Gestione connessioni, Endpoint"
+    "TEXT": "Garantire che le connessioni dei dispositivi mobili riconosciuti siano limitate ai sistemi informativi riconosciuti"
   },
   {
     "ID": "F1_94",
-    "TEXT": "Endpoint, Cifratura, Data breach"
+    "TEXT": "Garantire che le informazioni presenti sui dispositivi mobili siano cifrate, per garantirne la riservatezza e l'integrità"
   },
   {
     "ID": "F1_95",
-    "TEXT": "Controllo accessi, Logging"
+    "TEXT": "Garantire la tracciatura degli accessi e l'adeguata conservazione dei messaggi inviati e ricevuti per i servizi di posta elettronica e navigazione internet"
   },
   {
     "ID": "F1_96",
-    "TEXT": "Controlli di sicurezza, Autorizzazioni"
+    "TEXT": "Garantire la presenza di un processo autorizzativo per l'implementazione dei programmi di protezione degli asset informativi e per l'identificazione dei processi volti a mitigare i rischi di sicurezza informatica"
   },
   {
     "ID": "F1_97",
-    "TEXT": "Identificazione servizi"
+    "TEXT": "Garantire che, laddove necessario, i servizi vengano identificati e autenticati"
   },
   {
     "ID": "F1_98",
-    "TEXT": "Identificazione servizi, Accesso al sistema"
+    "TEXT": "Garantire che vengano utilizzati sistemi di identificazione e autenticazione centralizzati e che, quando non necessario, i servizi non ricevano le componenti di identificazione e autenticazione, ma solo il loro esito"
   },
   {
     "ID": "F1_99",
-    "TEXT": "Gestione connessioni, Cifratura, Controlli di sicurezza"
+    "TEXT": "Garantire che sia stabilito un canale sicuro di comunicazione (almeno per le funzioni di login e autenticazione iniziale) tra l'utente e un set definito di funzioni di sicurezza"
   },
   {
     "ID": "F1_100",
-    "TEXT": "Gestione sessioni, Accesso al sistema"
+    "TEXT": "Garantire che le sessioni utente vengano automaticamente disconnesse dopo un periodo prolungato di inattività o al verificarsi di specifici eventi"
   },
   {
     "ID": "F1_101",
-    "TEXT": "Gestione configurazioni, Controlli di sicurezza, Hardening"
+    "TEXT": "Garantire che vengano stabilite, documentate e implementate le impostazioni di configurazione più restrittive possibili (preservando l'operatività) per i prodotti tecnologici utilizzati all'interno del sistema informativo."
   },
   {
     "ID": "F1_102",
-    "TEXT": "Crisis Management, Gestione incidenti"
+    "TEXT": "Garantire che sia formalizzato e mantenuto aggiornato il piano delle comunicazioni in situazioni di emergenza."
   },
   {
     "ID": "F1_103",
-    "TEXT": "Gestione connessioni, Gestione configurazioni"
+    "TEXT": "Garantire che vengano identificati e implementati adeguati protocolli di comunicazione alternativi e che questi vengano opportunamente utilizzati nei casi previsti dal framework normativo aziendale"
   },
   {
     "ID": "F1_104",
-    "TEXT": "Cifratura, Logging"
+    "TEXT": "Garantire l'implementazione di meccanismi crittografici per l'integrità delle informazioni di tracciamento anche in accordo a quanto previsto dalla normativa vigente"
   },
   {
     "ID": "F1_105",
-    "TEXT": "Controlli di sicurezza, Hardening, Autorizzazioni"
+    "TEXT": "Garantire la presenza di un processo autorizzativo per l'implementazione dei programmi di protezione degli asset informativi e per l'identificazione dei processi volti a mitigare i rischi di sicurezza informatica"
   },
   {
     "ID": "F1_106",
-    "TEXT": "Scenario ILO, Scenario IPE, Scenario ISI, Piano DR, Terze parti, Policy BCM"
+    "TEXT": "Garantire che i piani di continuità operativa e Disaster Recovery dei fornitori e delle controparti esterne critiche per la Business Continuity rispettino i requisiti di continuità identificati dall'azienda"
   },
   {
     "ID": "F1_107",
-    "TEXT": "Scenario ILO, Scenario IPE, Scenario ISI, Piano DR, Terze parti, Policy BCM, Test BCM"
+    "TEXT": "Garantire che i piani di continuità operativa e Disaster Recovery dei fornitori di servizi di telecomunicazioni alternativi critici per la Business Continuity rispettino i requisiti di continuità identificati dall'Azienda, anche attraverso la richiesta periodica dei piani stessi e delle risultanze dei test effettuati"
   },
   {
     "ID": "F1_108",
-    "TEXT": "Test BCM, Test di sicurezza"
+    "TEXT": "Garantire che vengano effettuati test periodici sulle apparecchiature di downgrading per verificarne il corretto funzionamento"
   },
   {
     "ID": "F1_109",
-    "TEXT": "Formazione, Awareness, Policy BCM, Policy sicurezza"
+    "TEXT": "Garantire che sia definita, documentata ed aggiornata  una policy per la sensibilizzazione e la formazione su tematiche di Information Security e Business Continuity e le relative procedure operative"
   },
   {
     "ID": "F1_110",
-    "TEXT": "Cifratura, Sicurezza fisica, Gestione connessioni"
+    "TEXT": "Garantire che siano implementati meccanismi di crittografia e/o di misure di sicurezza fisica durante la trasmissione delle informazioni"
   },
   {
     "ID": "F1_111",
-    "TEXT": "Cifratura, Data breach, Hardening, Controlli di sicurezza"
+    "TEXT": "Garantire che siano implementati meccanismi di crittografia (e.g. disk encryption) per prevenire la divulgazione e le modifiche non autorizzate delle informazioni critiche dalle componenti del sistema informativo"
   },
   {
     "ID": "F1_112",
-    "TEXT": "Gestione password, Cifratura"
+    "TEXT": "Garantire che le password vengano protette mediante meccanismi crittografici quando memorizzate o trasmesse"
   },
   {
     "ID": "F1_113",
-    "TEXT": "Gestione account, Autorizzazioni"
+    "TEXT": "Garantire che gli identificativi vengano assegnati a individui, ruoli, gruppi o dispositivi solo a valle di autorizzazione da parte del personale competente"
   },
   {
     "ID": "F1_114",
-    "TEXT": "Gestione account"
+    "TEXT": "Garantire che gli identificativi vengano disabilitati dopo un prolungato periodo di inattività"
   },
   {
     "ID": "F1_115",
-    "TEXT": "Data breach"
+    "TEXT": "Garantire che gli indirizzi di posta elettronica visibili all'esterno non contengano gli identificativi utilizzati internamente"
   },
   {
     "ID": "F1_116",
-    "TEXT": "Frode, Gestione account"
+    "TEXT": "Garantire che l'identità dell'individuo venga confermata prima di rilasciare l'identificativo"
   },
   {
     "ID": "F1_117",
-    "TEXT": "Gestione account, Terze parti"
+    "TEXT": "Garantire che gli utenti esterni o i processi che agiscono in loro vece) siano identificati e autenticati in modo univoco"
   },
   {
     "ID": "F1_118",
-    "TEXT": "Gestione account, Terze parti"
+    "TEXT": "Garantire che gli utenti esterni (o i processi che agiscono in loro vece) siano identificati e autenticati in modo univoco"
   },
   {
     "ID": "F1_119",
-    "TEXT": "Gestione account"
+    "TEXT": "Garantire che l'identificativo univoco attribuito al personale interno ed esterno del sistema informativo sia creato utilizzando una naming convention che non consenta la riconducibilità ai poteri attribuiti dall'utente."
   },
   {
     "ID": "F1_120",
-    "TEXT": "Gestione account"
+    "TEXT": "Garantire che non vengano riutilizzati identificativi già utilizzati in passato"
   },
   {
     "ID": "F1_121",
-    "TEXT": "Sistema informativo, Architettura"
+    "TEXT": "Garantire che sia sviluppata e mantenuta aggiornata un'architettura di sicurezza del sistema informativo aziendale"
   },
   {
     "ID": "F1_122",
-    "TEXT": "Test di sicurezza, Penetration testing, SDLC"
+    "TEXT": "Garantire la presenza e la correttezza della documentazione relativa ai test di sicurezza condotti durante lo sviluppo del software."
   },
   {
     "ID": "F1_123",
-    "TEXT": "Accesso al sistema, Segregation of duties, Hardening, Sicurezza dei sistemi, Autorizzazioni, Controllo privilegi"
+    "TEXT": "Garantire che l'accesso alle funzioni di sicurezza (es. gestione delle chiavi, creazione di account, etc.) e alle informazioni sensibili per la sicurezza (es. rotte di router, regole di firewall, etc.) sia garantito solo a valle di un processo autorizzativo"
   },
   {
     "ID": "F1_124",
-    "TEXT": "Gestione password, Accesso al sistema"
+    "TEXT": "Garantire che l'autenticazione basata su password rispetti quanto previsto dalla normativa aziendale (es. livello di complessità minimo)"
   },
   {
     "ID": "F1_125",
-    "TEXT": "Gestione password, Accesso al sistema"
+    "TEXT": "Garantire che l'autenticazione basata su password rispetti quanto previsto dalla normativa aziendale (es. livello di complessità minimo)"
   },
   {
     "ID": "F1_126",
-    "TEXT": "Accesso al sistema, Segregation of duties, Hardening, Sicurezza dei sistemi, Autorizzazioni, Controllo privilegi"
+    "TEXT": "Garantire che l'accesso alle funzioni di sicurezza (es. gestione delle chiavi, creazione di account, etc.) e alle informazioni sensibili per la sicurezza (es. rotte di router, regole di firewall, etc.) sia garantito solo a valle di un processo autorizzativo"
   },
   {
     "ID": "F1_127",
-    "TEXT": "Logging"
+    "TEXT": "Garantire che il sistema informativo tracci tutti gli eventi prescritti dalla normativa aziendale"
   },
   {
     "ID": "F1_128",
-    "TEXT": "Logging"
+    "TEXT": "Garantire che il sistema informativo tracci tutti gli eventi prescritti dalla normativa aziendale"
   },
   {
     "ID": "F1_129",
-    "TEXT": "Logging, Audit"
+    "TEXT": "Garantire che sia effettuata una revisione  periodica degli eventi sottoposti a tracciamento"
   },
   {
     "ID": "F1_130",
-    "TEXT": "Logging, Audit"
+    "TEXT": "Garantire che sia effettuata una revisione  periodica degli eventi sottoposti a tracciamento"
   },
   {
     "ID": "F1_131",
-    "TEXT": "Logging, Backup"
+    "TEXT": "Garantire la replica dei log su sistemi informativi o su componenti differenti da quelle in cui sono generati"
   },
   {
     "ID": "F1_132",
-    "TEXT": "Logging, Backup"
+    "TEXT": "Garantire la replica dei log su sistemi informativi o su componenti differenti da quelle in cui sono generati"
   },
   {
     "ID": "F1_133",
-    "TEXT": "Logging, Accesso al sistema, Need to know"
+    "TEXT": "Garantire che sia consentito l'accesso alle funzionalità di gestione dei log ai soli utenti privilegiati"
   },
   {
     "ID": "F1_134",
-    "TEXT": "Logging, Accesso al sistema, Need to know"
+    "TEXT": "Garantire che sia consentito l'accesso alle funzionalità di gestione dei log ai soli utenti privilegiati"
   },
   {
     "ID": "F1_135",
-    "TEXT": "Accesso al sistema, Autenticazione"
+    "TEXT": "Garantire che l'autenticazione basata su token hardware venga gestita in coerenza con quanto previsto dalla normativa aziendale"
   },
   {
     "ID": "F1_136",
-    "TEXT": "Accesso al sistema, Autenticazione"
+    "TEXT": "Garantire che l'autenticazione basata su token hardware venga gestita in coerenza con quanto previsto dalla normativa aziendale"
   },
   {
     "ID": "F1_137",
-    "TEXT": "Accesso al sistema"
+    "TEXT": "Garantire che durante l'autenticazione non vengano rese visibili informazioni riservate (es. la password durante la digitazione, etc.)"
   },
   {
     "ID": "F1_138",
-    "TEXT": "Accesso al sistema"
+    "TEXT": "Garantire che durante l'autenticazione non vengano rese visibili informazioni riservate (es. la password durante la digitazione, etc.)"
   },
   {
     "ID": "F1_139",
-    "TEXT": "Gestione account, Accesso al sistema"
+    "TEXT": "Garantire che gli identificativi vengano disabilitati dopo un prolungato periodo di inattività"
   },
   {
     "ID": "F1_140",
-    "TEXT": "Gestione account, Accesso al sistema"
+    "TEXT": "Garantire che gli identificativi vengano disabilitati dopo un prolungato periodo di inattività"
   },
   {
     "ID": "F1_141",
-    "TEXT": "Gestione account, Accesso al sistema"
+    "TEXT": "Garantire che gli utenti esterni (o i processi che agiscono in loro vece) siano identificati e autenticati in modo univoco"
   },
   {
     "ID": "F1_142",
-    "TEXT": "Gestione account, Accesso al sistema"
+    "TEXT": "Garantire che gli utenti esterni (o i processi che agiscono in loro vece) siano identificati e autenticati in modo univoco"
   },
   {
     "ID": "F1_143",
-    "TEXT": "Hardening, Sicurezza dei sistemi, Sistema informativo, Architettura"
+    "TEXT": "Garantire che siano rispettati sui sistemi e sulle applicazioni i requisiti di layerizzazione."
   },
   {
     "ID": "F1_144",
-    "TEXT": "Sicurezza dei sistemi, Sistema informativo, Architettura"
+    "TEXT": "Garantire che siano individuate le componenti del sistema informativo (e.g. hardware,software, firmware ,etc.) rilevanti per i servizi di sicurezza "
   },
   {
     "ID": "F1_145",
-    "TEXT": "Sicurezza dei sistemi, Sistema informativo, Architettura"
+    "TEXT": "Garantire che siano individuate le componenti del sistema informativo (e.g. hardware,software, firmware ,etc.) rilevanti per i servizi di sicurezza "
   },
   {
     "ID": "F1_146",
-    "TEXT": "Sicurezza dei sistemi, Sistema informativo, Architettura"
+    "TEXT": "Garantire che siano individuate le componenti del sistema informativo (e.g. hardware,software, firmware ,etc.) rilevanti per i servizi di sicurezza "
   },
   {
     "ID": "F1_147",
-    "TEXT": "Sicurezza dei sistemi, Sistema informativo, Architettura"
+    "TEXT": "Garantire che siano individuate le componenti del sistema informativo (e.g. hardware,software, firmware ,etc.) rilevanti per i servizi di sicurezza "
   },
   {
     "ID": "F1_148",
-    "TEXT": "Sicurezza dei sistemi, Sistema informativo, Architettura"
+    "TEXT": "Garantire che siano individuate le componenti del sistema informativo (e.g. hardware,software, firmware ,etc.) rilevanti per i servizi di sicurezza "
   },
   {
     "ID": "F1_149",
-    "TEXT": "Cifratura, Accesso al sistema, Sicurezza dei sistemi, Sistema informativo"
+    "TEXT": "Garantire che sia applicata la crittografia sicura tra l'utente e un set definito di funzioni di sicurezza durante tutta la durata della sessione di comunicazione"
   },
   {
     "ID": "F1_150",
-    "TEXT": "Cifratura, Accesso al sistema, Sicurezza dei sistemi, Sistema informativo"
+    "TEXT": "Garantire che sia applicata la crittografia sicura tra l'utente e un set definito di funzioni di sicurezza durante tutta la durata della sessione di comunicazione"
   },
   {
     "ID": "F1_151",
-    "TEXT": "Sicurezza dei sistemi, Audit, Need to know"
+    "TEXT": "Garantire che siano generati messaggi di errore, resi noti solo al personale autorizzato, che forniscano le informazioni necessarie per l'adozione di azioni correttive senza però rilevare dei dettagli che potrebbero essere sfruttati per recare danno al sistema informativo aziendale"
   },
   {
     "ID": "F1_152",
-    "TEXT": "Sicurezza dei sistemi, Audit, Need to know"
+    "TEXT": "Garantire che siano generati messaggi di errore, resi noti solo al personale autorizzato, che forniscano le informazioni necessarie per l'adozione di azioni correttive senza però rilevare dei dettagli che potrebbero essere sfruttati per recare danno al sistema informativo aziendale"
   },
   {
     "ID": "F1_153",
-    "TEXT": "Accesso al sistema, Sicurezza dei sistemi"
+    "TEXT": "Garantire che qualora l'autenticazione non vada a buon fine, l'utente non riesca a risalire a cosa sia dovuto l'errore"
   },
   {
     "ID": "F1_154",
-    "TEXT": "Accesso al sistema, Sicurezza dei sistemi"
+    "TEXT": "Garantire che qualora l'autenticazione non vada a buon fine, l'utente non riesca a risalire a cosa sia dovuto l'errore"
   },
   {
     "ID": "F1_155",
-    "TEXT": "Gestione password, Accesso al sistema"
+    "TEXT": "Garantire che l'autenticazione basata su password rispetti quanto previsto dalla normativa aziendale (es. livello di complessità minimo)"
   },
   {
     "ID": "F1_156",
-    "TEXT": "Gestione password, Accesso al sistema"
+    "TEXT": "Garantire che l'autenticazione basata su password rispetti quanto previsto dalla normativa aziendale (es. livello di complessità minimo)"
   },
   {
     "ID": "F1_157",
-    "TEXT": "Gestione password, Accesso al sistema"
+    "TEXT": "Garantire che l'autenticazione basata su password rispetti quanto previsto dalla normativa aziendale (es. livello di complessità minimo)"
   },
   {
     "ID": "F1_158",
-    "TEXT": "Gestione incidenti"
+    "TEXT": "Garantire l'adozione di uno schema di classificazione degli incidenti di sicurezza"
   },
   {
     "ID": "F1_159",
-    "TEXT": "Gestione password, Accesso al sistema"
+    "TEXT": "Garantire che l'autenticazione basata su password rispetti quanto previsto dalla normativa aziendale (es. livello di complessità minimo)"
   },
   {
     "ID": "F1_160",
-    "TEXT": "Accesso al sistema, Sicurezza dei sistemi, Controlli di sicurezza"
+    "TEXT": "Garantire misure di sicurezza affinché il codice temporaneo di autenticazione rispetti le disposizioni previste all'interno del framework normativo aziendale"
   },
   {
     "ID": "F1_161",
-    "TEXT": "Accesso al sistema, Sicurezza dei sistemi, Controlli di sicurezza"
+    "TEXT": "Garantire misure di sicurezza affinché il codice temporaneo di autenticazione rispetti le disposizioni previste all'interno del framework normativo aziendale"
   },
   {
     "ID": "F1_162",
-    "TEXT": "Accesso al sistema, Sicurezza dei sistemi, Controlli di sicurezza, Frode"
+    "TEXT": "Garantire che l'autenticatore (es. password, token, componenti biometriche, certificati digitali, etc.) venga gestito:"
+  },
+  {
+    "ID": "F1_163",
+    "TEXT": "- verificando (prima della distribuzione) l'identità dell'individuo, del gruppo, del ruolo o del dispositivo che lo riceve;"
+  },
+  {
+    "ID": "F1_164",
+    "TEXT": "- impostandolo su valori iniziali predefiniti;"
+  },
+  {
+    "ID": "F1_165",
+    "TEXT": "- garantendo che sia sufficientemente robusto in base allo scopo per cui viene rilasciato;"
+  },
+  {
+    "ID": "F1_166",
+    "TEXT": "- implementando procedure per la distribuzione iniziale, per la gestione di autenticatori persi / compromessi / danneggiati, per la revoca;"
+  },
+  {
+    "ID": "F1_167",
+    "TEXT": "- modificando eventuali contenuti predefiniti prima dell'installazione nel sistema;"
+  },
+  {
+    "ID": "F1_168",
+    "TEXT": "- stabilendo restrizioni sulla durata minima / massima e sul riutilizzo;"
+  },
+  {
+    "ID": "F1_169",
+    "TEXT": "- proteggendone il contenuto da modifiche e accessi non autorizzati;"
+  },
+  {
+    "ID": "F1_170",
+    "TEXT": "- cambiandolo quando i membri degli account di gruppo vengono modificati;"
+  },
+  {
+    "ID": "F1_171",
+    "TEXT": "- distribuendolo su canali differenti rispetto all'identificativo."
   },
   {
     "ID": "F1_172",
-    "TEXT": "Accesso al sistema, Sicurezza dei sistemi, Controlli di sicurezza, Gestione password"
+    "TEXT": "Garantire che le password vengano protette mediante meccanismi crittografici quando memorizzate o trasmesse"
   },
   {
     "ID": "F1_173",
-    "TEXT": "Accesso al sistema, Sicurezza dei sistemi, Controlli di sicurezza, Gestione password"
+    "TEXT": "Garantire che non vengano memorizzate in chiaro nel sistema informativo (es. applicazioni, script, file di configurazione, etc.) le componenti riservate di autenticazione"
   },
   {
     "ID": "F1_174",
-    "TEXT": "Accesso al sistema, Sicurezza dei sistemi, Controlli di sicurezza, Gestione password"
+    "TEXT": "Garantire che durante l'autenticazione non vengano rese visibili informazioni riservate (es. la password durante la digitazione, etc.)"
   },
   {
     "ID": "F1_175",
-    "TEXT": "Cifratura, Accesso al sistema, Sicurezza dei sistemi, Sistema informativo"
+    "TEXT": "Garantire che sia applicata la crittografia sicura tra l'utente e un set definito di funzioni di sicurezza durante tutta la durata della sessione di comunicazione"
   },
   {
     "ID": "F1_176",
-    "TEXT": "Accesso al sistema, Sicurezza dei sistemi, Controlli di sicurezza"
+    "TEXT": "Garantire misure di sicurezza affinché il codice temporaneo di autenticazione rispetti le disposizioni previste all'interno del framework normativo aziendale"
   },
   {
     "ID": "F1_177",
-    "TEXT": "Accesso al sistema, Sicurezza dei sistemi, Hardening, Gestione account, Data breach, Sistema informativo"
+    "TEXT": "Garantire l'applicazione delle poliche di controllo accessi per proteggere l'accesso logico delle utenze personali e tecniche all'applicazione, alle informazioni in esso contenute o, nel caso di dispositivi fisici, alle risorse del sistema."
   },
   {
     "ID": "F1_178",
-    "TEXT": "Piano DR, Scenario ISI"
+    "TEXT": "Garantire che il piano di Disaster Recovery venga approvato dalle funzioni competenti."
   },
   {
     "ID": "F1_179",
-    "TEXT": "Flussi BCM, Scenario ILO, Scenario IPE, Scenario ISI"
+    "TEXT": "Garantire la predisposizione e l'approvazione del documento \"Piano annuale di Continuità Operativa del Gruppo Intesa Sanpaolo e Rischi Residui\""
   },
   {
     "ID": "F1_180",
-    "TEXT": "Flussi BCM, Scenario ILO, Scenario IPE, Scenario ISI"
+    "TEXT": "Garantire la predisposizione e l'approvazione del documento \"Verifiche e controlli del Piano di Continuità Operativa della Società\""
   },
   {
     "ID": "F1_181",
-    "TEXT": "Controllo accessi, Accesso al sistema, Frode, Controllo conti, Pagamento, Controllo transazioni"
+    "TEXT": "Garantire la corretta adozione di meccanismi di autenticazione forte del cliente. In particolare quando il cliente registra per la prima volta la sua carta, quando la collega al portafoglio virtuale, quando accedono al portafoglio virtuale e quando effettuano operazioni con carta via internet."
   },
   {
     "ID": "F1_182",
-    "TEXT": "Terze parti, Contratti"
+    "TEXT": "Garantire che, in caso di mancato svolgimento delle verifiche sui fornitori critici, venga fornita dalla struttura preposta la relativa motivazione."
   },
   {
     "ID": "F1_183",
-    "TEXT": "Terze parti, Contratti"
+    "TEXT": "Garantire la conformità normativa delle clausole contrattuali in caso di fornitori \"critici\"."
   },
   {
     "ID": "F1_184",
-    "TEXT": "Terze parti, Contratti, Scenario ILO, Scenario IPE, Scenario ISI"
+    "TEXT": "Garantire che siano disponibili e accessibili i piani di Continuità Operativa dei fornitori \"critici\"."
   },
   {
     "ID": "F1_185",
-    "TEXT": "Controllo accessi, Accesso al sistema, Frode, Controllo conti, Pagamento, Controllo transazioni, Autenticazione"
+    "TEXT": "Garantire l'adozione, nel processo di generazione dei dati della \"virtual card\", di meccanismi di autenticazione forte del cliente e di meccanismi che garantiscano la sicurezza e l'affidabilità dell'ambiente di generazione dei dati (es. cifratura del canale)."
   },
   {
     "ID": "F1_186",
-    "TEXT": "Accesso al sistema, Autenticazione"
+    "TEXT": "Garantire che l'autenticazione basata su token hardware venga gestita in coerenza con quanto previsto dalla normativa aziendale"
   },
   {
     "ID": "F1_187",
-    "TEXT": "Accesso al sistema, SCA, Gestione accessi"
+    "TEXT": "Garantire che il sistema supporti meccanismi di identificazione e autenticazione adattivi rispetto alla criticità delle informazioni accedute (es. utilizzo di strong authentication per l'accesso ai server e alle applicazioni da parte degli account privilegiati, per i servizi erogati alla clientela finale tramite canali  diretti, per l'autorizzazione delle transazioni critiche, per la modifica di dati e whitelist da parte del cliente, etc.)"
   },
   {
     "ID": "F1_188",
-    "TEXT": "Accesso al sistema, Sicurezza dei sistemi, Controlli di sicurezza"
+    "TEXT": "Garantire che qualora l'autenticazione non vada a buon fine, l'utente non riesca a risalire a cosa sia dovuto l'errore"
   },
   {
     "ID": "F1_189",
-    "TEXT": "Gestione password, Accesso al sistema"
+    "TEXT": "Garantire che l'autenticazione basata su password rispetti quanto previsto dalla normativa aziendale (es. livello di complessità minimo)"
   },
   {
     "ID": "F1_190",
-    "TEXT": "Gestione password, Accesso al sistema"
+    "TEXT": "Garantire che l'autenticazione basata su password rispetti quanto previsto dalla normativa aziendale (es. livello di complessità minimo)"
   },
   {
     "ID": "F1_191",
-    "TEXT": "Accesso al sistema, Sicurezza dei sistemi, Controlli di sicurezza"
+    "TEXT": "Garantire misure di sicurezza affinché il codice temporaneo di autenticazione rispetti le disposizioni previste all'interno del framework normativo aziendale"
   },
   {
     "ID": "F1_192",
-    "TEXT": "Accesso al sistema, Autenticazione"
+    "TEXT": "Garantire che l'autenticazione basata su token hardware venga gestita in coerenza con quanto previsto dalla normativa aziendale"
   },
   {
     "ID": "F1_193",
-    "TEXT": "Accesso al sistema, Sicurezza dei sistemi, Controlli di sicurezza"
+    "TEXT": "Garantire misure di sicurezza affinché il codice temporaneo di autenticazione rispetti le disposizioni previste all'interno del framework normativo aziendale"
   },
   {
     "ID": "F1_194",
-    "TEXT": "Gestione account"
+    "TEXT": "Garantire la presenza di una fonte autoritativa aziendale per la creazione o cancellazione degli account di accesso alle applicazioni aziendali."
   }
 ]

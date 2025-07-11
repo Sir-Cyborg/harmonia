@@ -1,46 +1,42 @@
+######################
+## Dataset su F1 e F2
+######################
+
 import json
-from sentence_transformers import SentenceTransformer
-from sklearn.decomposition import PCA
-import matplotlib.pyplot as plt
+from sentence_transformers import SentenceTransformer, util
+import numpy as np
+import pandas as pd
 
-with open("F1.json", "r", encoding="utf-8") as f1:
-    elementi_1 = json.load(f1)
+with open("F1.json", "r", encoding="utf-8") as f:
+    data_A = json.load(f)
+with open("F2.json", "r", encoding="utf-8") as f:
+    data_B = json.load(f)
 
-with open("F2.json", "r", encoding="utf-8") as f2:
-    elementi_2 = json.load(f2)
+ids_A = [item["ID"] for item in data_A]
+texts_A = [item["TEXT"] for item in data_A]
+ids_B = [item["ID"] for item in data_B]
+texts_B = [item["TEXT"] for item in data_B]
 
-text_1 = [e["TEXT"] for e in elementi_1]
-ID_1 = [e["ID"] for e in elementi_1]
-text_2 = [e["TEXT"] for e in elementi_2]
-ID_2 = [e["ID"] for e in elementi_2]
+model = SentenceTransformer('all-mpnet-base-v2')
+embeddings_A = model.encode(texts_A, convert_to_tensor=True)
+embeddings_B = model.encode(texts_B, convert_to_tensor=True)
 
-text=text_1 + text_2
-ID=ID_1 + ID_2
+results = []
 
-# Embedding con BERT
-model = SentenceTransformer("bert-base-nli-mean-tokens")
-embeddings = model.encode(text)
+# Per ciascun controllo di A, trova il più simile in B
+for idx_a, emb_a in enumerate(embeddings_A):
+    cosine_scores = util.cos_sim(emb_a, embeddings_B)[0]
+    best_match_idx = np.argmax(cosine_scores)
+    best_score = cosine_scores[best_match_idx].item()
+    results.append({
+        "ID_A": ids_A[idx_a],
+        "Testo_A": texts_A[idx_a],
+        "ID_B": ids_B[best_match_idx],
+        "Testo_B": texts_B[best_match_idx],
+        "Cosine_Similarity": best_score
+    })
 
-# PCA a 2D s
-pca = PCA(n_components=2)
-embeddings_2d = pca.fit_transform(embeddings)
-
-plt.figure(figsize=(12, 8))
-n1=len(text_1)
-
-# primo set di dati
-plt.scatter(embeddings_2d[:n1, 0], embeddings_2d[:n1, 1], c="skyblue", edgecolors="k", label="F1.json")
-# secondo set di dati
-plt.scatter(embeddings_2d[n1:, 0], embeddings_2d[n1:, 1], c="orange", edgecolors="k", label="F2.json")
-plt.legend()
-
-# Aggiungi etichette
-for i, id_val in enumerate(ID):
-    plt.text(embeddings_2d[i, 0] + 0.05, embeddings_2d[i, 1], id_val, fontsize=8)    
-
-plt.title("Distribuzione dei controlli nello spazio semantico (BERT + PCA)")
-plt.xlabel("PC1")
-plt.ylabel("PC2")
-plt.grid(True)
-plt.show()
-
+# Crea DataFrame e salva in Excel
+df = pd.DataFrame(results)
+print(df.head())  # Mostra le prime righe a terminale
+df.to_excel("result.xlsx", index=False)
